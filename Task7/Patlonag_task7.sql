@@ -1,0 +1,10 @@
+  SELECT
+  EMP_NUM,
+  DEPT_CODE,
+  PROF_HIGH_DEGREE 
+   FROM
+   "010920".professor
+WHERE
+DEPT_CODE='CIS'
+   
+    
